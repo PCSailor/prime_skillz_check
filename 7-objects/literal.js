@@ -5,7 +5,12 @@
 // - zip
 // Assign the values based on Prime's
 // address.
-
+var prime = {
+  city: ;
+  state: ;
+  zip: ;
+}
+  
 // 2 - Using dot notation, create a
 // new property for prime. This property
 // will be called address and will 
